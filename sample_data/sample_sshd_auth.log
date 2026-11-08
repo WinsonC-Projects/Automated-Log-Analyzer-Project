@@ -1,0 +1,40 @@
+Nov  3 08:12:20 ubuntu-server sshd[2107]: Accepted password for alice from 192.0.2.10 port 44943 ssh2
+Nov  3 08:12:59 ubuntu-server sshd[2108]: pam_unix(sshd:session): session opened for user alice
+Nov  3 09:03:04 ubuntu-server sshd[2110]: Accepted publickey for deploy from 192.0.2.25 port 57559 ssh2: RSA SHA256:Xk3p9LmQ2vT8aB1cD4eF6gH7iJ0kL5nOpQrStUvWxYz
+Nov  3 09:03:59 ubuntu-server sshd[2116]: pam_unix(sshd:session): session opened for user deploy
+Nov  3 13:41:37 ubuntu-server sshd[2125]: Accepted password for bob from 192.0.2.31 port 41900 ssh2
+Nov  3 13:41:59 ubuntu-server sshd[2129]: pam_unix(sshd:session): session opened for user bob
+Nov  3 17:55:02 ubuntu-server sshd[2136]: Accepted publickey for alice from 192.0.2.10 port 42816 ssh2: RSA SHA256:Xk3p9LmQ2vT8aB1cD4eF6gH7iJ0kL5nOpQrStUvWxYz
+Nov  3 17:55:59 ubuntu-server sshd[2143]: pam_unix(sshd:session): session opened for user alice
+Nov  4 02:14:08 ubuntu-server sshd[2282]: Invalid user admin from 198.51.100.23 port 51000
+Nov  4 02:14:09 ubuntu-server sshd[2289]: Connection closed by invalid user admin 198.51.100.23 port 51000 [preauth]
+Nov  4 02:14:10 ubuntu-server sshd[2147]: Failed password for root from 198.51.100.23 port 32289 ssh2
+Nov  4 02:14:13 ubuntu-server sshd[2156]: Failed password for root from 198.51.100.23 port 32972 ssh2
+Nov  4 02:14:16 ubuntu-server sshd[2157]: Failed password for invalid user admin from 198.51.100.23 port 43910 ssh2
+Nov  4 02:14:19 ubuntu-server sshd[2159]: Failed password for invalid user admin from 198.51.100.23 port 57094 ssh2
+Nov  4 02:14:22 ubuntu-server sshd[2160]: Failed password for invalid user oracle from 198.51.100.23 port 37315 ssh2
+Nov  4 02:14:25 ubuntu-server sshd[2167]: Failed password for invalid user ubuntu from 198.51.100.23 port 48910 ssh2
+Nov  4 02:14:28 ubuntu-server sshd[2171]: Failed password for invalid user test from 198.51.100.23 port 31624 ssh2
+Nov  4 02:14:31 ubuntu-server sshd[2180]: Failed password for invalid user postgres from 198.51.100.23 port 31526 ssh2
+Nov  4 02:14:34 ubuntu-server sshd[2183]: Failed password for root from 198.51.100.23 port 58130 ssh2
+Nov  4 02:14:37 ubuntu-server sshd[2190]: Failed password for invalid user user from 198.51.100.23 port 39489 ssh2
+Nov  4 02:14:40 ubuntu-server sshd[2199]: Failed password for invalid user git from 198.51.100.23 port 34726 ssh2
+Nov  4 02:14:43 ubuntu-server sshd[2204]: Failed password for invalid user ftp from 198.51.100.23 port 33859 ssh2
+Nov  4 02:14:46 ubuntu-server sshd[2207]: Failed password for invalid user pi from 198.51.100.23 port 48358 ssh2
+Nov  4 02:14:49 ubuntu-server sshd[2211]: Failed password for root from 198.51.100.23 port 33376 ssh2
+Nov  4 02:14:52 ubuntu-server sshd[2213]: Failed password for invalid user guest from 198.51.100.23 port 42202 ssh2
+Nov  4 02:15:40 ubuntu-server sshd[2273]: Accepted password for root from 198.51.100.23 port 44120 ssh2
+Nov  4 02:16:02 ubuntu-server sshd[2292]: message repeated 3 times: [ Failed password for root from 198.51.100.23 port 44001 ssh2]
+Nov  4 04:30:05 ubuntu-server sshd[2214]: Failed password for invalid user admin from 203.0.113.77 port 48493 ssh2
+Nov  4 04:30:09 ubuntu-server sshd[2223]: Failed password for invalid user support from 203.0.113.77 port 46266 ssh2
+Nov  4 04:30:13 ubuntu-server sshd[2229]: Failed password for invalid user nagios from 203.0.113.77 port 55468 ssh2
+Nov  4 04:30:17 ubuntu-server sshd[2237]: Failed password for invalid user nagios from 203.0.113.77 port 49187 ssh2
+Nov  4 04:30:21 ubuntu-server sshd[2241]: Failed password for invalid user ubuntu from 203.0.113.77 port 39822 ssh2
+Nov  4 04:30:25 ubuntu-server sshd[2245]: Failed password for invalid user support from 203.0.113.77 port 52904 ssh2
+Nov  4 04:30:29 ubuntu-server sshd[2250]: Failed password for invalid user admin from 203.0.113.77 port 48822 ssh2
+Nov  4 04:30:33 ubuntu-server sshd[2256]: Failed password for invalid user nagios from 203.0.113.77 port 58676 ssh2
+Nov  4 04:31:00 ubuntu-server sshd[2298]: Received disconnect from 203.0.113.77 port 40222:11: Bye Bye [preauth]
+Nov  4 10:20:11 ubuntu-server sshd[2264]: Failed password for bob from 192.0.2.31 port 52111 ssh2
+Nov  4 10:20:19 ubuntu-server sshd[2269]: Failed password for bob from 192.0.2.31 port 52113 ssh2
+Nov  4 10:20:31 ubuntu-server sshd[2271]: Accepted password for bob from 192.0.2.31 port 52115 ssh2
+Nov  5 11:00:01 ubuntu-server sshd[2301]: Server listening on 0.0.0.0 port 22.

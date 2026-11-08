@@ -1,0 +1,8 @@
+Oct 25 14:00:01 server sshd[101]: Failed password for root from 192.168.1.50 port 50100 ssh2
+Oct 25 14:00:05 server sshd[102]: Failed password for root from 192.168.1.50 port 50101 ssh2
+Oct 25 14:01:01 server sshd[103]: Accepted publickey for analyst from 192.168.1.20 port 50102 ssh2
+Oct 25 14:02:00 server sshd[104]: Failed password for invalid user guest from 192.168.1.50 port 50103 ssh2
+Oct 25 14:02:30 server sshd[105]: Failed password for root from 192.168.1.50 port 50104 ssh2
+Oct 25 14:03:00 server sshd[106]: Accepted password for analyst from 192.168.1.20 port 50105 ssh2
+Oct 25 14:03:10 server sshd[107]: Connection closed by authenticating user root 192.168.1.50 port 50106 [preauth]
+Oct 25 14:04:00 server sshd[108]: last message repeated 3 times
